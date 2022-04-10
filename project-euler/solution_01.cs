@@ -5,7 +5,7 @@ public class Program
 	public static void Main()
 	{	
 		int sums = 0;
-		int max = 100;
+		int max = 1000;
 
 		for(int i = 1; i < max; i++){
 			if ((i % 3) == 0 || (i % 5) == 0){
